@@ -15,7 +15,7 @@ baseurl: '/bikdroid.github.io' #change it according to your repository name
 #Profile information
 name: Bikramjit Mandal
 tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: 9660438.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: hello@webjeda.com
