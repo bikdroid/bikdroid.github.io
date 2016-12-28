@@ -45,7 +45,7 @@ p {
 }
 .wrapper {
   /*background: #A15277;*/
-  background: #66d9ff;
+  background: #0099e6;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -55,7 +55,7 @@ p {
 }
 .sidebar-wrapper {
   /*background: #A15277;*/
-  background: #66d9ff;
+  background: #0099e6;
   position: absolute;
   right: 0;
   width: 240px;
@@ -164,7 +164,8 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #6e3852;
+  /*color: #6e3852;*/
+  color: #0099e6;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
