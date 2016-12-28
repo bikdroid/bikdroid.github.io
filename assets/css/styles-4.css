@@ -44,7 +44,8 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #A15277;
+  /*background: #A15277;*/
+  background: #66d9ff;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -53,7 +54,8 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #A15277;
+  /*background: #A15277;*/
+  background: #66d9ff;
   position: absolute;
   right: 0;
   width: 240px;
