@@ -223,6 +223,7 @@ p {
   margin-bottom: 5px;
 }
 .main-wrapper .projects-section .intro {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
